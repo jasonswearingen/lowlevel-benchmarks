@@ -1,3 +1,6 @@
+# Archived
+These benchmarks were created in the net6/8 timeframe, and offer great insight as to perf characteristics, but no further development is expected/needed.
+
 # lowlevel-benchmarks
 benchmarking ways of doing lowlevel work in dotnet.
 
